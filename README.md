@@ -1,4 +1,4 @@
 # College-NIET
 This is My first repository on Github
-<b>
+<br>
 Author - Rajeev Rathor
